@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Created By ybenel
+# Created By ybenel 
 
 import argparse, os, sys, requests
 from hashlib import *
@@ -8,7 +8,7 @@ from datetime import *
 __program__ = 'lover'
 __version__ = 'v2'
 __author__ = 'ybenel'
-__github__ = 'https://github.com/ybenel/lover'
+__github__ = 'https://github.com/m1ndo/lover'
 class bcolors:
 	##############################3
 	Green="\033[1;33m"

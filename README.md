@@ -5,7 +5,7 @@
 ```bash
 git clone https://github.com/m1ndo/Wissal
 cd Wissal
-python3 Wissal -h 
+python3 wissal.py -h 
 ```
 
 ## Usage: 
@@ -16,7 +16,7 @@ python3 lover.py -v HASH -f Wordlist / For --> Brute Force Attack (md5, sha1, sh
 python3 lover.py -n HASH / For --> Online Search (md5, sha1, sha224, sha256, sha384, sha512))
 ```
 ## ScreenShot && Demo:
-<img src="https://i.ibb.co/b1R1fa6/Wissal.png" alt="Wissal" border="0">
+<img src="https://i.ibb.co/b1Rc66F/Wissal.png" alt="Wissal" border="0">
 
 <p align="center">
 <a href="https://asciinema.org/a/238875">
