@@ -16,11 +16,11 @@ python3 lover.py -v HASH -f Wordlist / For --> Brute Force Attack (md5, sha1, sh
 python3 lover.py -n HASH / For --> Online Search (md5, sha1, sha224, sha256, sha384, sha512))
 ```
 ## ScreenShot && Demo:
-
+<img src="https://i.ibb.co/b1R1fa6/Wissal.png" alt="Wissal" border="0">
 
 <p align="center">
-<a href="https://asciinema.org/a/238192">
-<img src="https://asciinema.org/a/238192.svg">
+<a href="https://asciinema.org/a/238875">
+<img src="https://asciinema.org/a/238875.svg">
 </a>
 </p>
 
